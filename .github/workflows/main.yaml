@@ -15,3 +15,5 @@ jobs:
         with:
           bun-version: ${{ matrix.version }}
       - run: bun install
+      - run: bun add redux
+        working-directory: libs/api
