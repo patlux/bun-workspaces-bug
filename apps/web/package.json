@@ -1,7 +1,8 @@
 {
-  "name": "web",
+  "name": "@bun-workspaces-bug/web",
   "module": "index.ts",
   "type": "module",
+  "dependencies": {},
   "devDependencies": {
     "bun-types": "latest"
   },

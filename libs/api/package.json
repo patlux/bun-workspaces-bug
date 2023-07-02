@@ -1,7 +1,8 @@
 {
-  "name": "api",
+  "name": "@bun-workspaces-bug/api",
   "module": "index.ts",
   "type": "module",
+  "dependencies": {},
   "devDependencies": {
     "bun-types": "latest"
   },

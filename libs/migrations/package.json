@@ -1,5 +1,5 @@
 {
-  "name": "migrations",
+  "name": "@bun-workspaces-bug/migrations",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
