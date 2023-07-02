@@ -1,0 +1,15 @@
+{
+  "name": "bun-workspaces-lib-install-bug",
+  "module": "index.ts",
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "libs/*"
+  ],
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
