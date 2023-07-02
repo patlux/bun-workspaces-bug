@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        version: [0.5.0, 0.6.0, 0.6.12]
+        version: [0.5.8, 0.6.0, 0.6.12]
     steps:
       - uses: actions/checkout@v3
       - uses: oven-sh/setup-bun@v1
